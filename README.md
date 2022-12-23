@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=codescience&fontSize=60&animation=fadeIn 1.2s)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=codescience&fontSize=60&animation=blink.6s)
  
  
  # Hi, everyone  
