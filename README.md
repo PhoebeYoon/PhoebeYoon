@@ -8,7 +8,9 @@
 https://img.shields.io/badge/style-plastic-red
 <br>
 - [x] 이메일 : phoebenyun@gmail.com
-- [ ] 모바일 : 010-99:cactus::cactus: -:zap: :rose:  :sunny::whale2:
+- [X] 모바일 : 010-9944-5100
+- [ ] SNS 하지만 미공개
+:cactus::cactus: -:zap: :rose:  :sunny::whale2:
 
 - 🔭 I’m currently working on AWS 클라우드기반 CS개발자 과정  
 ![HTML5/CSS3](https://img.shields.io/badge/HTML-CSS-orange)
