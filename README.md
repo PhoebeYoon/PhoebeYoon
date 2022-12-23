@@ -29,7 +29,11 @@ https://img.shields.io/badge/style-plastic-red
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-orange)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-red)
 ![PYTHON](https://img.shields.io/badge/PYTHON-yellow)
-![JAVA](https://img.shields.io/badge/JAVA-lightblue)
+![JAVA](https://img.shields.io/badge/JAVA-black)
+![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-DeepPink)
+![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-brown)
+![ADOBE-XD](https://img.shields.io/badge/ADOBEXD-purple)
+![FIGMA](https://img.shields.io/badge/FIGMA-GRAY)
 
 <!--
 **PhoebeYoon/PhoebeYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
