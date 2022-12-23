@@ -9,8 +9,8 @@
 💩 여기있는 코드와 실습내용은 직접직성되었거나 공개코드를 이용했습니다.<br>
 https://img.shields.io/badge/style-plastic-red
 <br>
-- [x] 이메일 : phoebenyun@gmail.com  
-- [] 모바일 : 010-99
+- [x] 이메일 : phoebenyun@gmail.com
+- [ ] 모바일 : 010-99
 
 
 - 🔭 I’m currently working on AWS 클라우드기반 CS개발자 과정  
