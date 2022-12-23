@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, everyone ~ 
+## Thank for visit us
 
 <!--
 **PhoebeYoon/PhoebeYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
