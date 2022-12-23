@@ -9,7 +9,9 @@
 💩 여기있는 코드와 실습내용은 직접직성되었거나 공개코드를 이용했습니다.<br>
 https://img.shields.io/badge/style-plastic-red
 <br>
-☠ 연락처 : phoebenyun@gmail.com
+☠ 연락처 : phoebenyun@gmail.com  
+- 🔭 I’m currently working on AWS 클라우드기반 CS개발자 과정  
+
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-green)
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-GIT-orange)
@@ -19,7 +21,7 @@ https://img.shields.io/badge/style-plastic-red
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AWS 클라우드기반 CS개발자 과정
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
