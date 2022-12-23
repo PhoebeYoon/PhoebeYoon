@@ -10,7 +10,7 @@
 https://img.shields.io/badge/style-plastic-red
 <br>
 - [x] 이메일 : phoebenyun@gmail.com
-- [ ] 모바일 : 010-99:cactus::cactus: :honeybee::honeybee::honeybee::honeybee:
+- [ ] 모바일 : 010-99:cactus::cactus: :honeybee: :honeybee: :honeybee::honeybee:
 
 
 - 🔭 I’m currently working on AWS 클라우드기반 CS개발자 과정  
