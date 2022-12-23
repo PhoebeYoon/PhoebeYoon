@@ -1,5 +1,5 @@
 # Hi, everyone ~  
-## Thank for visit us
+
 
 
 👽 Instructor at 코드사이언스 아카데미 <br>
