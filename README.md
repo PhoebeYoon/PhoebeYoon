@@ -15,8 +15,9 @@ https://img.shields.io/badge/style-plastic-red
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-green)
 ![jQUERY](https://img.shields.io/badge/JQUERY-gold)
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
-![NODE.JS](https://img.shields.io/badge/NODE.JS-GIT-orange)
+![NODE.JS](https://img.shields.io/badge/NODE.JS-orange)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-red)
+![REACT](https://img.shields.io/badge/REACT-yellowgreen)
 ![PYTHON](https://img.shields.io/badge/PYTHON-yellow)
 ![JAVA](https://img.shields.io/badge/JAVA-lightblue)
 
