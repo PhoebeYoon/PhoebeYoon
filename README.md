@@ -1,4 +1,4 @@
-# Hi, everyone ~  
+ _Hi, everyone_
 
 
 
@@ -15,7 +15,7 @@ https://img.shields.io/badge/style-plastic-red
 - 🔭 I’m currently working on AWS 클라우드기반 CS개발자 과정  
 ![HTML5/CSS3](https://img.shields.io/badge/HTML-CSS-orange)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-green)
-![jQUERY](https://img.shields.io/badge/jquery-gold)
+![jQUERY](https://img.shields.io/badge/JQUERY-gold)
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-GIT-orange)
 
