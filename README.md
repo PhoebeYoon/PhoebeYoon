@@ -1,3 +1,6 @@
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+ 
+ 
  # Hi, everyone  
  
 👽 Instructor at 코드사이언스 아카데미 <br>
@@ -10,7 +13,7 @@ https://img.shields.io/badge/style-plastic-red
 - [x] 이메일 : phoebenyun@gmail.com
 - [X] 모바일 : 010-9944-5100
 - [ ] SNS 하지만 미공개
-:cactus::cactus: -:zap: :rose:  :sunny::whale2:
+:cactus::cactus::zap: :rose:  :sunny::whale2:
 
 - 🔭 I’m currently working on AWS 클라우드기반 CS개발자 과정  
 ![HTML5/CSS3](https://img.shields.io/badge/HTML-CSS-orange)
