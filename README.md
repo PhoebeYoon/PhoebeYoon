@@ -1,7 +1,7 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=codescience&fontSize=60&animation=fadeIn)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=codescience&fontSize=80&animation=fadeIn)
  
  
- # Hi, everyone  
+ # Hello, Everyone  
  
 👽 Instructor at 코드사이언스 아카데미 <br>
 👻 빠른 웹 개발 경력을 위한 개인레슨<br>
@@ -10,12 +10,17 @@
 💩 여기있는 코드와 실습내용은 직접직성되었거나 공개코드를 이용했습니다.<br>
 https://img.shields.io/badge/style-plastic-red
 <br>
-- [x] 이메일 : phoebenyun@gmail.com
-- [X] 모바일 : 010-9944-5100
-- [ ] SNS 하지만 미공개
+
+ **📫 How to reach me:**
+> - [x] 이메일 : phoebenyun@gmail.com
+> - [X] 모바일 : 010-9944-5100
+> - [ ] SNS 하지만 미공개
 :cactus::cactus::zap: :rose:  :sunny::whale2:
 
-- 🔭 I’m currently working on AWS 클라우드기반 CS개발자 과정  
+**🔭I’m currently working on AWS 클라우드기반 CS개발자 과정**
+---
+
+
 ![HTML5/CSS3](https://img.shields.io/badge/HTML-CSS-orange)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-green)
 ![jQUERY](https://img.shields.io/badge/JQUERY-gold)
