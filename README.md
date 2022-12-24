@@ -8,7 +8,7 @@
 👾 웹개발자를 위한 전문교육<br>
 🤖 Specialized at teaching for a Full Stack Developer  <br>
 💩 여기있는 코드와 실습내용은 직접직성되었거나 공개코드를 이용했습니다.<br>
-https://img.shields.io/badge/style-plastic-red
+
 <br>
 
  **📫 How to reach me:**
@@ -17,7 +17,7 @@ https://img.shields.io/badge/style-plastic-red
 > - [ ] SNS 하지만 미공개
 :cactus::cactus::zap: :rose:  :sunny::whale2:
 
-**🔭I’m currently working on AWS 클라우드기반 CS개발자 과정**
+**🔭 I’m currently working on AWS 클라우드기반 CS개발자 과정**
 ---
 
 
