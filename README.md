@@ -5,8 +5,8 @@
  
 👽 Instructor at 코드사이언스 아카데미 <br>
 👻 빠른 웹 개발 경력을 위한 개인레슨<br>
-👾 웹개발자를 위한 전문교육<br>
-🤖 Specialized at teaching for a Full Stack Developer  <br>
+👾 웹개발자를 위한 Full Stack Developer 전문교육<br>
+🤖 프로젝트별 웹개발하는 프리랜서 <br>
 💩 여기있는 코드와 실습내용은 직접직성되었거나 공개코드를 이용했습니다.<br>
 
 <br>
