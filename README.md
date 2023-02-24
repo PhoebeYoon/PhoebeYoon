@@ -27,6 +27,7 @@
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
 ![REACT](https://img.shields.io/badge/REACT-yellowgreen)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-orange)
+![NODE.JS](https://img.shields.io/badge/MySql-skyblue)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-red)
 ![PYTHON](https://img.shields.io/badge/PYTHON-yellow)
 ![JAVA](https://img.shields.io/badge/JAVA-black)
