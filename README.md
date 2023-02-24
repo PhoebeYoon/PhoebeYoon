@@ -12,8 +12,8 @@
 <br>
 
  **📫 How to reach me:**
-> - [x] 이메일 : phoebenyun@gmail.com
-> - [X] 모바일 : 010-9944-5100
+> - [x] 이메일 : phoe👻👻👻👻@gmail.com
+> - [X] 모바일 : 010-9944-👻👻👻👻
 > - [ ] SNS 하지만 미공개
 :cactus::cactus::zap: :rose:  :sunny::whale2:
 
