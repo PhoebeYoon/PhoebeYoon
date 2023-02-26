@@ -17,7 +17,7 @@
 > - [ ] SNS 하지만 미공개
 :cactus::cactus::zap: :rose:  :sunny::whale2:
 
-**🔭 I’m currently working on AWS 클라우드기반 CS개발자 과정**
+**🔭 I’m currently working on AWS 클라우드 프로젝트 **
 ---
 
 
