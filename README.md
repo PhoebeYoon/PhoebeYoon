@@ -4,15 +4,15 @@
  # Hello, Everyone  
  
 👽 Instructor at 코드사이언스 아카데미 <br>
-👻 빠른 웹 개발 경력을 위한 개인레슨<br>
+👻 UX, UI 디자인<br>
 👾 웹개발자를 위한 풀스택 Developer 전문교육<br>
-🤖 프로젝트별 웹개발하는 프리랜서 <br>
-💩 여기있는 코드와 실습내용은 직접작성되었거나 공개코드를 이용했습니다.<br>
+🤖 프로젝트별 풀스택 개발하는 프리랜서 <br>
+💩 강의 및 개발의뢰는 아래 이메일를 이용해주세요
 
 <br>
 
  **📫 How to reach me:**
-> - [x] 이메일 : phoe👻👻👻👻@gmail.com
+> - [x] 이메일 : yunhateacher@naver.com
 > - [X] 모바일 : 010-9944-👻👻👻👻
 > - [ ] SNS 하지만 미공개
 :cactus::cactus::zap: :rose:  :sunny::whale2:
