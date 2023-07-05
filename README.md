@@ -4,9 +4,10 @@
  # Hello, Everyone  
  
 👽 Instructor at 코드사이언스 아카데미 <br>
-👻 UX, UI 디자인<br>
 👾 웹개발자를 위한 풀스택 Developer 전문교육<br>
 🤖 프로젝트별 풀스택 개발하는 프리랜서 <br>
+👻 UX, UI 디자인 - Figma, Illustrator, Photoshop <br>
+👻 Javascript 전문강의 <br>
 💩 강의 및 개발의뢰는 아래 이메일를 이용해주세요
 
 <br>
