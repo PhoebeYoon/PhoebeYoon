@@ -34,8 +34,8 @@
 ![JAVA](https://img.shields.io/badge/JAVA-black)
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-deeppink)
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-brown)
-![ADOBE-XD](https://img.shields.io/badge/ADOBEXD-purple)
 ![FIGMA](https://img.shields.io/badge/FIGMA-magenta)
+![ADOBE-XD](https://img.shields.io/badge/ADOBEXD-purple)
 
 <!--
 **PhoebeYoon/PhoebeYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
