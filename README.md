@@ -2,8 +2,8 @@
  
  
  # Hello, Everyone  
- 
-👽 Instructor at 코드사이언스 아카데미 <br>
+**현재 비공개로 진행하고 있습니다. 요청이 있을경우 공개로 전환합니다**    
+👽 Instructor at 코드사이언스 아카데미 <br> 
 👾 웹개발자를 위한 풀스택 Developer 전문교육<br>
 🤖 프로젝트별 풀스택 개발하는 프리랜서 <br>
 👻 UX, UI 디자인 - Figma, Illustrator, Photoshop <br>
