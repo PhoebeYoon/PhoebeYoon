@@ -8,7 +8,7 @@
 🤖 프로젝트별 개발 프리랜서 <br>
 👻 UX, UI 디자인 - Figma, Illustrator, Photoshop <br>
 👻 Javascript 전문강의 <br>
-💩 강의 및 개발의뢰는 아래 이메일를 이용해주세요
+👩‍💼 강의 및 개발의뢰는 아래 이메일를 이용해주세요
 
 <br>
 
