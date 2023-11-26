@@ -23,7 +23,7 @@
 
 
 ![HTML5/CSS3](https://img.shields.io/badge/HTML-CSS-orange)
-![Sass](https://img.shields.io/badge/Sass-blue)
+![Sass](https://img.shields.io/badge/Sass-pink)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-green)
 ![jQUERY](https://img.shields.io/badge/JQUERY-gold)
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
