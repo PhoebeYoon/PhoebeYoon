@@ -2,13 +2,13 @@
  
  
  # Hello, Everyone  
-**현재 비공개로 진행하고 있습니다. 요청이 있을경우 공개로 전환합니다**    
+**현재 일부는 비공개입니다. 요청이 있을경우 공개로 전환합니다**    
+🤖 프론트엔드 개발 프리랜서 <br>
 👽 Instructor at 코드사이언스 아카데미 <br> 
 👾 웹개발자를 위한 프론트엔드 Developer 전문교육<br>
-🤖 프로젝트별 개발 프리랜서 <br>
 👻 UX, UI 디자인 - Figma, Illustrator, Photoshop <br>
 :cactus: Javascript 전문강의 <br>
-👩‍💼 강의 및 개발의뢰는 아래 이메일를 이용해주세요
+👩‍💼 개발의뢰 및 강의의뢰는 아래 이메일를 이용해주세요 (yunhateacher@naver.com)    
 
 <br>
 
