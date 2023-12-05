@@ -1,7 +1,8 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=codescience&fontSize=80&animation=fadeIn)
  
- 
+
  # Hello, Everyone  
+
 **현재 일부는 비공개입니다. 요청이 있을경우 공개로 전환합니다**    
 🤖 프론트엔드 개발 프리랜서 <br>
 👽 Instructor at 코드사이언스 아카데미 <br> 
@@ -10,7 +11,7 @@
 :cactus: Javascript 전문강의 <br>
 👩‍💼 개발의뢰 및 강의의뢰는 아래 이메일를 이용해주세요 (yunhateacher@naver.com)    
 
-<br>
+ ## 코드는 과학이다 - Code Science 
 
  **📫 How to reach me:**
 > - [x] 이메일 : yunhateacher@naver.com
