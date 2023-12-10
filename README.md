@@ -17,10 +17,10 @@
  **📫 How to reach me:**
 > - [x] 이메일 : p🤖@gmail.com
 > - [X] 모바일 : 010-👻👻👻👻-5100
-> - [ ] SNS 하지만 미공개
-:cactus::zap: :rose:  :sunny::whale2:
+> - [X] 인스타그램, 페이스북
+> - [X] 유튜브    
 
-**🔭 I’m currently working on  **
+**🔭 I’m currently working on**
 ---
 
 
