@@ -3,7 +3,7 @@
 
  # Hello, Everyone  
 
-**현재 일부는 비공개입니다. 요청이 있을경우 공개로 전환합니다**    
+**현재 일부는 비공개입니다**    
 🤖 프론트엔드 개발 프리랜서 <br>
 👽 Instructor at 코드사이언스 아카데미  
 👾 웹개발자를 위한 프론트엔드 Developer 전문교육   
@@ -14,7 +14,7 @@
 
  ## 코드는 과학이다 - Code Science 
 
- **📫 How to reach me:** (요청시 공개합니다)
+ **📫 How to reach me (요청시 공개합니다)** 
 > - [x] 이메일 : phoebenyun@gmail.com
 > - [X] 모바일 : 010-👻👻👻👻-5100
 > - [X] Notion, 인스타그램, 유튜브   
