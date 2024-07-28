@@ -15,10 +15,9 @@
  ## 코드는 과학이다 - Code Science 
 
  **📫 How to reach me:**
-> - [x] 이메일 : p🤖@gmail.com
+> - [x] 이메일 : phoebenyun@gmail.com
 > - [X] 모바일 : 010-👻👻👻👻-5100
-> - [X] 인스타그램, 페이스북
-> - [X] 유튜브    
+> - [X] Notion, 인스타그램, 유튜브 (요청시에 공개합니다)  
 
 **🔭 I’m currently working on**
 ---
