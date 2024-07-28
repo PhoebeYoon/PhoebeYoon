@@ -7,7 +7,7 @@
 🤖 프론트엔드 개발 프리랜서 <br>
 👽 Instructor at 코드사이언스 아카데미  
 👾 웹개발자를 위한 프론트엔드 Developer 전문교육   
-:cactus: Javascript , jQuery전문강의    
+:cactus: Javascript , jQuery, React, 웹표준 전문강의    
 👻 UX, UI 디자인 - Figma, Illustrator, Photoshop   
 
 👩‍💼 개발의뢰 및 강의의뢰는 이메일를 이용해주세요 (yunhateacher@naver.com)    
