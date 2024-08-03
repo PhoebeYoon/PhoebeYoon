@@ -17,7 +17,8 @@
  **📫 How to reach me (요청시 공개합니다)** 
 > - [x] 이메일 : phoebenyun@gmail.com
 > - [X] 모바일 : 010-👻👻👻👻-5100
-> - [X] Notion, 인스타그램, 유튜브   
+> - [X] [ Notion](https://azure-pick-b47.notion.site/c4514b48012d40b797531a8180a89041?pvs=74 ),
+> - [ ]  인스타그램, 유튜브   
 
 **🔭 I’m currently working on**
 ---
