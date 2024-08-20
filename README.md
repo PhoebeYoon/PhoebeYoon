@@ -35,8 +35,9 @@
 ![HTML5/CSS3](https://img.shields.io/badge/HTML-CSS-orange)
 ![REACT](https://img.shields.io/badge/REACT-yellowgreen)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-orange)
-![NODE.JS](https://img.shields.io/badge/MySql-skyblue)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-red)
+![NODE.JS](https://img.shields.io/badge/MySql-skyblue)
+
 ![PYTHON](https://img.shields.io/badge/PYTHON-yellow)
 ![JAVA](https://img.shields.io/badge/JAVA-black)
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-deeppink)
