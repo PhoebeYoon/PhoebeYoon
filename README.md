@@ -37,7 +37,6 @@
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-orange)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-red)
 ![NODE.JS](https://img.shields.io/badge/MySql-skyblue)
-
 ![PYTHON](https://img.shields.io/badge/PYTHON-yellow)
 ![JAVA](https://img.shields.io/badge/JAVA-black)
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-deeppink)
