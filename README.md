@@ -28,11 +28,11 @@
 ---
 
 
-![HTML5/CSS3](https://img.shields.io/badge/HTML-CSS-orange)
+
 ![Sass](https://img.shields.io/badge/Sass-pink)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-green)
 ![jQUERY](https://img.shields.io/badge/JQUERY-gold)
-![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
+![HTML5/CSS3](https://img.shields.io/badge/HTML-CSS-orange)
 ![REACT](https://img.shields.io/badge/REACT-yellowgreen)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-orange)
 ![NODE.JS](https://img.shields.io/badge/MySql-skyblue)
