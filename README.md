@@ -16,10 +16,10 @@
  ## 코드는 과학이다 - Code Science 
 
  **📫 How to reach me** 
-- [x] 웹사이트 :www.codescience.co.kr (We are currently revamping our website )   
-- [x] 이메일 : phoebenyun@gmail.com
-- [X] 모바일 : 010-👻👻👻👻-5100
-- [X] Notion : [지식위키 목록 ](https://azure-pick-b47.notion.site/c4514b48012d40b797531a8180a89041?pvs=74) 예시로 올립니다 (요청시 다른항목도 공개로 전환 )
+- [x] 웹사이트 www.codescience.co.kr (We are currently revamping our website )   
+- [x] 이메일  phoebenyun@gmail.com
+- [X] 모바일  010-👻👻👻👻-5100
+- [X] Notion [지식위키 목록 ](https://azure-pick-b47.notion.site/c4514b48012d40b797531a8180a89041?pvs=74) 예시로 올립니다 (요청시 다른항목도 공개로 전환 )
 - [X] 인스타그램, 유튜브
 
 **(코드및 내용은 요청시 공개)**
