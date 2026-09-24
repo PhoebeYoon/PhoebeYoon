@@ -10,7 +10,7 @@
 :cactus: Javascript , jQuery, React, 웹표준 전문강의    
 👻 UX, UI 디자인 - Figma, Illustrator, Photoshop   
 
-👩‍💼 개발의뢰 및 강의의뢰는 이메일을 이용해주세요 (yunhateacher@naver.com)    
+👩‍💼 개발의뢰 및 강의의뢰는 이메일로 보내주세요 (yunhateacher@naver.com)    
 
  ## 코드는 과학이다 - Code Science 
 
