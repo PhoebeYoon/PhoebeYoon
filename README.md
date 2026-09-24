@@ -29,7 +29,7 @@
 ---
 
 
-
+![AI AGENT](https://img.shields.io/badge/AI_AGENT-1C6EBE?style=plastic)
 ![Sass](https://img.shields.io/badge/Sass-pink)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-green)
 ![jQUERY](https://img.shields.io/badge/JQUERY-gold)
