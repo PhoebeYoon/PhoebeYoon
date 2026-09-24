@@ -4,7 +4,7 @@
  # Hello, Everyone  
 
 **현재 일부는 비공개입니다**    
-🤖 생성형 AI 활용 실무형 AI Agent 개발 ( n8n 기반 업무 자동화부터 RAG·Tool 연동까지)
+🧠 생성형 AI 활용 실무형 AI Agent 개발 ( n8n 기반 업무 자동화부터 RAG·Tool 연동까지)  
 🤖 프론트엔드 개발 프리랜서 <br>
 👽 Instructor at 코드사이언스 아카데미  
 👾 웹개발자를 위한 프론트엔드 Developer 전문교육   
